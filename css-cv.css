@@ -1,0 +1,25 @@
+h4{
+	font-family: Verdana;
+	font-size: 15px;
+}
+
+h5{
+	font-family: Ariel;
+	font-size: 14px;
+}
+
+p{
+	font-family: cursive;
+	font-size: 13px;
+}
+
+body{
+	background-color: #00bfff;
+	margin-left: 25px;	
+}
+
+img{
+	margin-left: 5px;	
+	width: 150px;
+	height:150px;
+}
